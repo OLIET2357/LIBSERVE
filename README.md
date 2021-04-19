@@ -1,5 +1,5 @@
 # LIBSERVE
-TDU (Tokyo Denki University) Reserve Library Area
+Reserve TDU (Tokyo Denki University) Library Area
 
 # REQUIRE
 Selenium Driver (ex. chromedriver.exe)
