@@ -11,4 +11,5 @@ Selenium Driver (ex. chromedriver.exe https://chromedriver.chromium.org/download
 
 
 # NOTICE
-現在予約ボタンのXPATHがコロコロ変わる問題が発覚し対応中です。
+<s>現在予約ボタンのXPATHがコロコロ変わる問題が発覚し対応中です。</s>
+多分直りました。
